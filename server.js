@@ -1,6 +1,6 @@
 const express = require("express");
 const scraper = require("./scraper.js");
-const scraper = require("./updater.js");
+const updater = require("./updater.js");
 const app = express();
 const port = 5000;
 
